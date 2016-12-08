@@ -1,0 +1,38 @@
+body {
+  background: url("portfolioBackground.gif") no-repeat center center fixed;
+}
+
+header {
+  color:limegreen;
+  font-size: 20px;
+  width:380px;
+  font-family:verdana;
+  font-weight:bold;
+  background-color:rgba(0,0,0,0);
+}
+
+nav {
+  background-color: rgba(0,0,0,.3);
+}
+
+#navTag {
+  color:yellow;
+  padding-left:45px;
+  background-color: rgba(0,0,0,0);
+}
+
+#navLink>a {
+  color:rgb(75,190,100);
+  font-size:20px;
+}
+
+#navLink {
+  background-color: rgba(0,0,0,0);
+  margin-left: 33px;
+}
+
+.leftAlign {
+  margin-left:165px;
+  margin-right:165px;
+  padding:25px;
+}
